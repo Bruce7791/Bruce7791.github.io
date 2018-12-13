@@ -7,4 +7,4 @@ Here I have links to my Python program repositories which showcase my work.
 ### My Repositories
 
 * Guessing Game - <https://github.com/Bruce7791/GuessingGame> 
-[Link Text](/jekyll/update/2016/09/08/welcome-to-jekyll.html)
+(/jekyll/update/2016/09/08/welcome-to-jekyll.html)
