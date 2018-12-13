@@ -4,22 +4,9 @@ My name is Bruce Lamb and I am a self-taught programmer specializing in Python r
 
 Here I have links to my Python program repositories which showcase my work. 
 
-### Markdown
+### My Repositories
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+. Guessing Game - https://github.com/Bruce7791/GuessingGame
 
 **Bold** and _Italic_ and `Code` text
 
