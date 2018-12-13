@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Github page
 
-You can use the [editor on GitHub](https://github.com/Bruce7791/Bruce7791.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Bruce Lamb and I am a self-taught programmer specializing in Python right now. Looking to get into IT eventually either as a programmer or a manager. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here I have links to my Python program repositories which showcase my work. 
 
 ### Markdown
 
