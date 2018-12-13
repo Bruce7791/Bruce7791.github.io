@@ -6,7 +6,7 @@ Here I have links to my Python program repositories which showcase my work.
 
 ### My Repositories
 
-. Guessing Game - https://github.com/Bruce7791/GuessingGame
+* Guessing Game - https://github.com/Bruce7791/GuessingGame
 
 **Bold** and _Italic_ and `Code` text
 
