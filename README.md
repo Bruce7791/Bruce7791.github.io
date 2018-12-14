@@ -7,4 +7,5 @@ Here are links to my Python program repositories which showcase my work.
 ### My Repositories
 
 * Guessing Game - <https://github.com/Bruce7791/GuessingGame> 
+* Collatz Conjecture - <https://github.com/Bruce7791/Collatz-Conjecture>
 
