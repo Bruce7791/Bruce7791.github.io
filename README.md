@@ -9,4 +9,5 @@ Here are links to my Python program repositories which showcase my work.
 * Guessing Game - <https://github.com/Bruce7791/GuessingGame> 
 * Collatz Conjecture - <https://github.com/Bruce7791/Collatz-Conjecture>
 * Password Generator - <https://github.com/Bruce7791/Password-Generator>
+* Fortune Teller - https://github.com/Bruce7791/Fortune-Teller
 
